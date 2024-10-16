@@ -1,2 +1,2 @@
 # A-N-Nanditha
-this is my my first Git Repository
+This is my first Git Repository
